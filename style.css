@@ -1,0 +1,16 @@
+
+
+.navbar {
+    /* background-color: rgb(0, 72, 206);
+    color: rgb(238, 0, 0); */
+    font-size: 18px;
+    font-weight: bold ;
+}
+
+.logo {
+    width: 30px;
+}
+
+#top_player img {
+    width: 50px;
+}
